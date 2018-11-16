@@ -1,0 +1,48 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:359px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u275_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:288px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'苹方 粗体', '苹方 常规', '苹方';
+  font-weight:700;
+  font-style:normal;
+}
+#u275 {
+  position:absolute;
+  left:59px;
+  top:73px;
+  width:300px;
+  height:288px;
+  font-family:'苹方 粗体', '苹方 常规', '苹方';
+  font-weight:700;
+  font-style:normal;
+}
+#u276 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
+}
